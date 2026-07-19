@@ -15,12 +15,12 @@ keyword:
  - next generation
  - unicorn
 venue:
- # group: WG
- # type: Working Group
- # mail: WG@example.com
- # arch: https://example.com/WG
-  github: ajeanmahoney/ietf126-GH-tutorial
-  latest: https://example.com/LATEST
+#  group: WG
+#  type: Working Group
+#  mail: WG@example.com
+#  arch: https://example.com/WG
+  github: "ajeanmahoney/ietf126-GH-tutorial"
+  latest: "https://ajeanmahoney.github.io/ietf126-GH-tutorial/draft-mahoney-foo-bar.html"
 
 author:
  -
