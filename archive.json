@@ -1,0 +1,109 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2026-07-21T02:44:47.437305+00:00",
+  "repo": "ajeanmahoney/ietf126-GH-tutorial",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOTdKFhc7zhlmm",
+      "title": "Update abstract section in draft-mahoney-foo-bar.md",
+      "url": "https://github.com/ajeanmahoney/ietf126-GH-tutorial/pull/1",
+      "state": "MERGED",
+      "author": "ajeanmahoney",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:30:18Z",
+      "updatedAt": "2026-07-19T11:32:06Z",
+      "baseRepository": "ajeanmahoney/ietf126-GH-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "0e3bc696446086bdf8512d54f7ec0775dc981c03",
+      "headRepository": "ajeanmahoney/ietf126-GH-tutorial",
+      "headRefName": "ajeanmahoney-patch-1",
+      "headRefOid": "cf2c91b4d4f4e4a27e096b39bd53be8bb568394a",
+      "closedAt": "2026-07-19T11:32:05Z",
+      "mergedAt": "2026-07-19T11:32:05Z",
+      "mergedBy": "ajeanmahoney",
+      "mergeCommit": {
+        "oid": "3b5e780bdfc837aaca926df330a06e9667cab410"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 2,
+      "id": "PR_kwDOTdKFhc7zhn9k",
+      "title": "Update introduction section in draft document",
+      "url": "https://github.com/ajeanmahoney/ietf126-GH-tutorial/pull/2",
+      "state": "OPEN",
+      "author": "ajeanmahoney",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-19T11:34:22Z",
+      "updatedAt": "2026-07-19T11:34:22Z",
+      "baseRepository": "ajeanmahoney/ietf126-GH-tutorial",
+      "baseRefName": "main",
+      "baseRefOid": "3b5e780bdfc837aaca926df330a06e9667cab410",
+      "headRepository": "ajeanmahoney/ietf126-GH-tutorial",
+      "headRefName": "ajeanmahoney-patch-2",
+      "headRefOid": "31ba9a3095dbfcf0df02cf410b598df0275de8b5",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
